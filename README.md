@@ -1,4 +1,4 @@
-typescript-bootstrap
-====================
+Typescript Namespace Bootstrap
+==============================
 
-A bootstrap repo for getting up and running with TypeScript
+A bootstrap repo for getting started in TypeScript with a name spaced web module.
