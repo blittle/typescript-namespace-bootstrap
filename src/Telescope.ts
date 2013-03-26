@@ -26,5 +26,9 @@ export class Telescope implements TelescopeInterface {
         return this.on;
     }
 
+    public static someMethod() : void {
+
+    }
+
 }
 
