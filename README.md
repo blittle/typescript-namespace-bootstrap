@@ -1,4 +1,4 @@
-typescript-amd-bootstrap
-========================
+typescript-bootstrap
+====================
 
-A bootstrap repo for getting started with TypeScript and browser AMD modules
+A bootstrap repo for getting up and running with TypeScript

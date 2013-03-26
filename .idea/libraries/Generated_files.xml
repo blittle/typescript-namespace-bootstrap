@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/single/single1.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/multi/dir/multi2.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/comments.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/single/dir/single2.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/no-module.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/multi/multi1.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/simple.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/utf8-with-bom.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/commonjs.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/declaration.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/sourcemap.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/amd.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/multi/dir/multi2.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/no-module.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/multi/multi1.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/simple.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/commonjs.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/utf8-with-bom.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/sourcemap.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/single/single1.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/single/dir/single2.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/comments.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/declaration.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-typescript/test/fixtures/amd.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
