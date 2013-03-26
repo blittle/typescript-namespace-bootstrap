@@ -11,7 +11,7 @@ module.exports = function(grunt) {
                 src: ['src/**/*.ts'],
                 dest: 'build',
                 options: {
-                    module: 'commonjs', //or commonjs
+                    module: 'amd', //or commonjs
                     target: 'es5', //or es3
                     sourcemap: true,
                     declaration: true
