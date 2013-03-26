@@ -3,18 +3,24 @@ module.exports = function(grunt) {
 
     // Load the typescript plugin
     grunt.loadNpmTasks('grunt-typescript');
+    grunt.loadNpmTasks('grunt-contrib-jasmine');
 
     // Project configuration.
     grunt.initConfig({
         typescript: {
             base: {
                 src: ['src/**/*.ts'],
-                dest: 'build',
+                dest: 'build/rovor.js',
                 options: {
-                    module: 'amd', //or commonjs
-                    target: 'es5', //or es3
-                    sourcemap: true,
                     declaration: true
+                }
+            }
+        },
+       jasmine: {
+            customTemplate: {
+                src: 'build/**/*.js',
+                options: {
+                    specs: 'spec/*Spec.js'
                 }
             }
         }
@@ -22,5 +28,6 @@ module.exports = function(grunt) {
 
     // Register tasks
     grunt.registerTask('default', 'typescript');
+    grunt.registerTask('test', ['typescript', 'jasmine']);
 
 };

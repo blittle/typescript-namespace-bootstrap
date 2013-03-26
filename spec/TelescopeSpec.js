@@ -1,12 +1,12 @@
-var AutoScope = require("../src/AutoScope")
 describe("AutoScope", function () {
-    var telescope;
+    var AutoScope = ROVOR.AutoScope,
+        telescope;
+
     beforeEach(function () {
-        telescope = new AutoScope.AutoScope();
+        telescope = new AutoScope();
     });
     it("The telescope should turn on", function () {
         telescope.start();
         expect(telescope.isOn()).toBeTruthy();
     });
 });
-//@ sourceMappingURL=AutoScopeSpec.js.map

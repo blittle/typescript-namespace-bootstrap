@@ -1,22 +1,25 @@
-import Telescope = module('Telescope');
+///<reference path='Telescope.ts'/>
 
-export class AutoScope extends Telescope.Telescope {
+module ROVOR {
+    export class AutoScope extends ROVOR.Telescope {
 
-    constructor(public name: string = "AutoScope Telescope") {
-        super(name);
-    }
+        constructor(public name: string = "AutoScope Telescope") {
+            super(name);
+        }
 
-    start(): AutoScope {
+        start(): AutoScope {
 
-        this.bootup();
+            this.bootup();
 
-        super.start();
+            super.start();
 
-        return this;
-    }
+            return this;
+        }
 
-    private bootup() {
-        //Do some work to start the Autoscope telescope
+        private bootup() {
+            //Do some work to start the Autoscope telescope
+        }
     }
 
 }
+
