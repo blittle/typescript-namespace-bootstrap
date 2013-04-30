@@ -20,6 +20,5 @@ module ROVOR {
             //Do some work to start the Autoscope telescope
         }
     }
-
 }
 

@@ -2,39 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="225f17a1-db3d-4f52-9b57-7192afc8374b" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\build\src\AutoScope.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\build\src\AutoScope.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\build\src\AutoScope.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\build\src\Telescope.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\build\src\Telescope.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\build\src\Telescope.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\spec\AutoScopeSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\spec\AutoScopeSpec.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bret Little\dev\typescript-namespace-bootstrap\spec\AutoScopeSpec.ts" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AutoScope.js.map" afterPath="$PROJECT_DIR$/src/AutoScope.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AutoScope.js" afterPath="$PROJECT_DIR$/src/AutoScope.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AutoScope.ts" afterPath="$PROJECT_DIR$/src/AutoScope.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Telescope.js.map" afterPath="$PROJECT_DIR$/src/Telescope.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Telescope.js" afterPath="$PROJECT_DIR$/src/Telescope.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Telescope.ts" afterPath="$PROJECT_DIR$/src/Telescope.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/rovor.js" afterPath="$PROJECT_DIR$/build/rovor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="typescript-amd-bootstrap.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364335712561" ignored="false" />
-    <file path="/package.json" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364335088016" ignored="false" />
+    <file path="/Dummy.txt" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1367357572072" ignored="false" />
+    <file path="/package.json" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1367357459894" ignored="false" />
     <file path="/grunt.js" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364326856000" ignored="false" />
     <file path="/Gruntfile.js" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364335779302" ignored="false" />
     <file path="/Telescope.ts" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364334642942" ignored="false" />
     <file path="$PROJECT_DIR$/../typescript-amd-bootstrap/src/Telescope.ts" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364334561913" ignored="false" />
     <file path="$PROJECT_DIR$/../typescript-amd-bootstrap/src/AutoScope.ts" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364334561913" ignored="false" />
     <file path="/AutoScope.ts" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364334792021" ignored="false" />
-    <file path="/index.html" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364334930365" ignored="false" />
+    <file path="/index.html" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1367357993110" ignored="false" />
     <file path="/TelescopeSpec.ts" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364336561477" ignored="false" />
     <file path="/rovor.d.ts" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1364336341229" ignored="false" />
+    <file path="$PROJECT_DIR$/../typescript-amd-bootstrap/src/Telescope.js" changelist="225f17a1-db3d-4f52-9b57-7192afc8374b" time="1367357475820" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +43,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -85,7 +80,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -98,7 +92,16 @@
       <file leaf-file-name="AutoScope.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AutoScope.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+            <state line="24" column="55" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="4" selection-start="248" selection-end="248" vertical-scroll-proportion="0.30981067">
               <folding />
             </state>
           </provider>
@@ -108,9 +111,7 @@
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="52" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,17 +129,6 @@
         <entry file="file://$PROJECT_DIR$/typescript-def/jasmine.d.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -153,10 +143,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TelescopeSpec.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TelescopeSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/TelescopeSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="61" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3445946">
+            <state line="5" column="49" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -165,7 +155,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-9.807693">
+            <state line="13" column="45" selection-start="344" selection-end="344" vertical-scroll-proportion="-8.125">
               <folding />
             </state>
           </provider>
@@ -174,7 +164,7 @@
       <file leaf-file-name="Telescope.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Telescope.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+            <state line="33" column="108" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -183,7 +173,7 @@
       <file leaf-file-name="AutoScope.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AutoScope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -210,23 +200,24 @@
         <option value="$PROJECT_DIR$/grunt.ts" />
         <option value="$PROJECT_DIR$/grunt.js" />
         <option value="$PROJECT_DIR$/typescript-amd-bootstrap.jquery.json" />
-        <option value="$PROJECT_DIR$/src/Telescope.ts" />
-        <option value="$PROJECT_DIR$/src/AutoScope.ts" />
         <option value="$PROJECT_DIR$/build/rovor.js" />
         <option value="$PROJECT_DIR$/spec/index.html" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/build/rovor.d.ts" />
         <option value="$PROJECT_DIR$/spec/TelescopeSpec.ts" />
         <option value="$PROJECT_DIR$/spec/TelescopeSpec.js" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/Telescope.ts" />
+        <option value="$PROJECT_DIR$/src/AutoScope.ts" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1050" />
+    <option name="x" value="48" />
+    <option name="y" value="-4" />
+    <option name="width" value="1873" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -235,6 +226,8 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
@@ -254,6 +247,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -331,7 +325,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,7 +451,7 @@
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
-    <configuration default="false" name="Grunt Jasmine Tests" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="node_modules/grunt-cli/bin/grunt" application-parameters="test" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="Grunt Jasmine Tests" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="node_modules/grunt-cli/bin/grunt" application-parameters="test" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="NodeJS.run" />
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
@@ -482,16 +475,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="48" y="-4" width="1873" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -504,11 +495,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67081445" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24931507" sideWeight="0.67199147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32800853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -573,6 +566,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AutoScope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Telescope.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -590,9 +590,7 @@
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -603,44 +601,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AutoScope.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typescript-def/jasmine.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/rovor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="26" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Telescope.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -652,25 +632,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AutoScope.ts">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+        <state line="13" column="52" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="52" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="13" column="45" selection-start="344" selection-end="344" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutoScope.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="55" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Telescope.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="108" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/TelescopeSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="61" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3445946">
+        <state line="5" column="49" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="248" selection-end="248" vertical-scroll-proportion="0.30981067">
           <folding />
         </state>
       </provider>

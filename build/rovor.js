@@ -46,3 +46,4 @@ var ROVOR;
     })(ROVOR.Telescope);
     ROVOR.AutoScope = AutoScope;    
 })(ROVOR || (ROVOR = {}));
+//@ sourceMappingURL=rovor.js.map

@@ -12,6 +12,7 @@ module.exports = function(grunt) {
                 src: ['src/**/*.ts'],
                 dest: 'build/rovor.js',
                 options: {
+                    sourcemap: true,
                     declaration: true
                 }
             }
